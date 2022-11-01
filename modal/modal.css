@@ -206,7 +206,7 @@ Modal
 */
 .hero {
     min-height: 100vh;
-    background: url("./hero.jpeg") center/cover no-repeat;
+    background: url("./space.png") center/cover no-repeat;
     display: grid;
     place-items: center;
 }

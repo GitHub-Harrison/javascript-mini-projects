@@ -1,2 +1,2 @@
-//using selectors inside the element
+// using selectors inside the element
 // traversing the dom
